@@ -1,0 +1,30 @@
+.game {
+  margin: 0;
+  padding: 70px 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.game-board {
+  width: 100%;
+}
+
+.leaderboard {
+  width:30%;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.tiles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width:24%;
+  margin: 0 38%; 
+}

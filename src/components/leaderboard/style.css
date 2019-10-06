@@ -1,0 +1,24 @@
+.leaderbord {
+  background-color: #c4ccc7;
+  margin: auto;
+  border-collapse: collapse;
+  width: 100%;
+}
+.leadebord-header {
+  color: #5c5858;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin:10px;
+}
+.leaderbord-row {
+  padding: 3px;
+  margin:10px;
+  border-bottom: 2px solid #fff;
+  color: #6b6a68;
+}
+
+.leaderbord-data {
+  text-align: center;
+  padding: 10px;
+}
